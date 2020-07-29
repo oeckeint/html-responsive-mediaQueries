@@ -1,2 +1,0 @@
-# html-responsive-mediaQueries
-ad
